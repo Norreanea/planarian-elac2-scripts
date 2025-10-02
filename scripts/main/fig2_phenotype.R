@@ -22,7 +22,7 @@ download.file(xlsx_url, destfile = xlsx_tmp, mode = "wb")
 
 # - Sheet 1: ELAC2_KD (qPCR fold-change)
 # - Sheet 2: ELAC2_obs (counts of abnormalities per Gene (condition))
-xlsx_tmp="D:/Elac2/final_results/tables/data.xlsx"
+#xlsx_tmp="D:/Elac2/final_results/tables/data.xlsx"
 ELAC2_KD  <- readxl::read_excel(xlsx_tmp, sheet = 1)
 ELAC2_obs <- readxl::read_excel(xlsx_tmp, sheet = 2)
 

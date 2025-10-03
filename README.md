@@ -35,7 +35,7 @@ Scripts are organized by figure (main and supplementary).
 
 ---
 
-## Supplementary Figures and Data
+## Supplementary Figures
 
 - `scripts/supplementary/figS5_ncRNA_length_and_tRF_scheme.R` – Generates length-distribution plots for ncRNA classes and a schematic of tRNA-derived fragment.  
   

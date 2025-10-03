@@ -53,7 +53,7 @@ RNA-seq data: [GSE293999](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE
 ## Citation
 
 If you use these scripts, please cite:  
-> Dutta A., Zaremba A., Samelak-Czajka A., Marszalek-Zenczak M., Trybus M., Osuch M., Figlerowicz M., Jackowiak P. Knockdown of *Smed ELAC2* in *Schmidtea mediterranea* results in delayed regeneration and a reduced accumulation of the small non-coding RNA, 5′ tiRNA-Gly-GCC. Nucleic Acids Research (2025). Manuscript DOI: (to be added upon acceptance)
+> Dutta A., Zaremba A., Samelak-Czajka A., Marszalek-Zenczak M., Trybus M., Osuch M., Figlerowicz M., Jackowiak P. Knockdown of *Smed ELAC2* in *Schmidtea mediterranea* results in delayed regeneration and a reduced accumulation of the small non-coding RNA, 5′ tiRNA-Gly-GCC. Manuscript DOI: (to be added upon acceptance)
 
 ---
 

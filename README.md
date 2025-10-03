@@ -1,7 +1,7 @@
 
 # planarian-elac2-scripts
 
-This repository contains all scripts used in the analysis for:
+This repository contains scripts used in the analysis for:
 
 **Knockdown of Smed ELAC2 in *Schmidtea mediterranea* results in delayed regeneration and a reduced accumulation of the small non-coding RNA, 5′ tiRNA-Gly-GCC**  
 
